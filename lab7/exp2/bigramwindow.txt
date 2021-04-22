@@ -1,0 +1,1806 @@
+10 most frequent bigrams per stream
+-----------
+in the : 26
+i will : 24
+i am : 20
+of the : 13
+i do : 12
+and the : 10
+as a : 9
+and i : 9
+i have : 8
+the more : 8
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 20
+i am : 15
+and i : 13
+i have : 11
+of this : 9
+that i : 8
+i had : 8
+my lord : 8
+it is : 8
+i do : 7
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 24
+in the : 23
+it is : 16
+my lord : 15
+is the : 14
+i have : 13
+that i : 12
+and the : 11
+and i : 11
+of the : 9
+
+
+10 most frequent bigrams per stream
+-----------
+i have : 23
+to the : 22
+my lord : 19
+i am : 14
+the king : 13
+i will : 13
+to be : 13
+it is : 13
+of the : 11
+i would : 10
+
+
+10 most frequent bigrams per stream
+-----------
+i have : 27
+in the : 23
+i will : 22
+of his : 19
+of the : 17
+i am : 15
+i know : 15
+to the : 14
+my lord : 14
+he is : 13
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 34
+i have : 23
+i will : 22
+my lord : 21
+of the : 18
+you are : 15
+that i : 15
+of my : 14
+in the : 13
+i would : 13
+
+
+10 most frequent bigrams per stream
+-----------
+of the : 15
+in the : 15
+it is : 15
+thou art : 14
+i am : 13
+that i : 13
+i do : 12
+i will : 12
+of a : 11
+in my : 10
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 30
+i will : 25
+of a : 19
+you have : 18
+of the : 17
+in the : 17
+in love : 16
+out of : 15
+you are : 14
+i would : 14
+
+
+10 most frequent bigrams per stream
+-----------
+i have : 24
+it is : 21
+i will : 20
+in the : 20
+to the : 19
+and i : 18
+i am : 15
+to be : 14
+i for : 13
+you are : 13
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 16
+i have : 14
+of her : 13
+to be : 13
+i will : 12
+it is : 12
+one of : 10
+that i : 10
+if you : 10
+to the : 10
+
+
+10 most frequent bigrams per stream
+-----------
+i have : 21
+i am : 16
+to the : 16
+of the : 14
+c sar : 11
+it is : 11
+of my : 10
+that i : 10
+as i : 10
+to be : 10
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 20
+to the : 20
+o the : 14
+i have : 11
+no more : 10
+to thee : 7
+my brother : 6
+by the : 6
+of the : 6
+the roman : 6
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 18
+to the : 13
+which i : 10
+to be : 10
+i have : 9
+to me : 9
+you are : 8
+of the : 8
+know not : 8
+i will : 8
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 23
+it is : 19
+in the : 18
+i am : 17
+for the : 13
+i have : 12
+a man : 12
+of the : 12
+to be : 12
+to the : 11
+
+
+10 most frequent bigrams per stream
+-----------
+of the : 27
+in the : 24
+i will : 17
+is the : 14
+and i : 14
+i do : 12
+i am : 12
+it is : 12
+i have : 11
+to the : 11
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 13
+not so : 13
+in the : 11
+you have : 10
+is not : 10
+you are : 8
+i will : 8
+my lord : 8
+and so : 8
+it is : 8
+
+
+10 most frequent bigrams per stream
+-----------
+in the : 28
+i have : 14
+by the : 14
+of the : 14
+i am : 12
+i will : 12
+to the : 11
+it is : 11
+of your : 10
+with the : 10
+
+
+10 most frequent bigrams per stream
+-----------
+i do : 16
+in the : 15
+thou art : 14
+your honour : 12
+it is : 12
+of the : 11
+is a : 11
+i am : 9
+of your : 9
+let me : 9
+
+
+10 most frequent bigrams per stream
+-----------
+it is : 28
+the duke : 26
+i am : 23
+to the : 22
+in the : 21
+of the : 20
+i have : 19
+i will : 18
+you have : 14
+is a : 13
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 47
+i am : 22
+in the : 19
+i will : 18
+i have : 16
+with a : 16
+to the : 16
+that you : 13
+i would : 13
+it is : 13
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 32
+i will : 31
+in the : 30
+my lord : 28
+i would : 19
+i have : 18
+to be : 18
+he is : 17
+in love : 17
+and i : 16
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 30
+i am : 20
+my lord : 19
+that i : 17
+in the : 15
+a man : 12
+you are : 11
+to be : 11
+it is : 11
+do not : 10
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 13
+i have : 11
+in the : 10
+of the : 9
+to be : 9
+my lord : 9
+like a : 8
+to your : 8
+of all : 8
+of tyre : 7
+
+
+10 most frequent bigrams per stream
+-----------
+by the : 12
+to the : 11
+the gods : 10
+in the : 8
+my lord : 8
+i have : 7
+you are : 7
+in your : 7
+as you : 7
+the sea : 7
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 18
+the gods : 15
+to the : 14
+i will : 12
+to be : 12
+you are : 11
+of her : 10
+i can : 9
+you have : 9
+my lord : 9
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 17
+to the : 14
+that i : 10
+in the : 10
+i know : 10
+of my : 9
+i will : 9
+thou art : 9
+to dinner : 8
+of the : 7
+
+
+10 most frequent bigrams per stream
+-----------
+in the : 20
+i am : 19
+that i : 19
+the chain : 19
+i will : 16
+to the : 12
+and i : 11
+i have : 10
+to me : 10
+a man : 9
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 18
+i am : 16
+in the : 16
+he is : 14
+you are : 13
+is a : 12
+i think : 12
+i have : 11
+of the : 11
+of my : 11
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 35
+i will : 27
+in the : 21
+i have : 16
+of the : 15
+if you : 13
+i would : 13
+of my : 12
+i pray : 11
+who chooseth : 11
+
+
+10 most frequent bigrams per stream
+-----------
+i have : 23
+of the : 21
+my lord : 20
+it is : 20
+in the : 19
+i am : 15
+of my : 14
+the jew : 14
+my bond : 12
+i will : 11
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 35
+i am : 30
+it is : 27
+the ring : 18
+i pray : 16
+pray you : 16
+that is : 13
+and i : 13
+i have : 12
+you are : 12
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 44
+i have : 37
+by gar : 26
+and i : 24
+i am : 23
+in the : 19
+i shall : 18
+he is : 18
+pray you : 17
+of the : 17
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 29
+master brook : 27
+in the : 21
+i have : 19
+i am : 18
+sir john : 16
+to the : 15
+master fenton : 12
+pray you : 12
+of a : 12
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 24
+i have : 16
+i will : 14
+it is : 12
+for i : 11
+i know : 11
+to her : 10
+you have : 10
+in the : 10
+my lord : 10
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 22
+i have : 13
+you are : 12
+will be : 10
+if you : 10
+i will : 10
+if i : 9
+i must : 9
+with a : 9
+i know : 9
+
+
+10 most frequent bigrams per stream
+-----------
+it is : 17
+i have : 16
+is the : 16
+i will : 15
+i am : 12
+i pray : 12
+if you : 10
+shall be : 10
+my master : 9
+you are : 9
+
+
+10 most frequent bigrams per stream
+-----------
+of the : 13
+i have : 12
+to the : 12
+in the : 12
+i am : 11
+to be : 9
+o the : 8
+thou hast : 8
+tell me : 7
+that i : 7
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 14
+i do : 12
+this is : 10
+i have : 9
+i am : 9
+like a : 9
+of the : 8
+the king : 8
+is a : 8
+to be : 8
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 15
+i do : 13
+i will : 13
+to the : 11
+i have : 8
+if you : 8
+and the : 8
+as i : 8
+in my : 7
+in the : 7
+
+
+10 most frequent bigrams per stream
+-----------
+i have : 17
+i am : 13
+in the : 11
+that i : 10
+in love : 10
+sir i : 9
+i will : 9
+and yet : 8
+of the : 8
+you have : 8
+
+
+10 most frequent bigrams per stream
+-----------
+that i : 15
+i will : 15
+i have : 13
+i am : 12
+to my : 11
+to be : 10
+to her : 9
+you are : 9
+me to : 9
+and i : 9
+
+
+10 most frequent bigrams per stream
+-----------
+item she : 18
+i have : 16
+i am : 15
+she is : 15
+that i : 14
+she hath : 11
+i do : 10
+i will : 10
+she can : 10
+i would : 10
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 23
+i have : 16
+i am : 15
+to be : 13
+of my : 12
+to the : 12
+it is : 12
+i do : 8
+to me : 8
+thou hast : 7
+
+
+10 most frequent bigrams per stream
+-----------
+to the : 25
+my lord : 18
+i have : 16
+of the : 16
+the queen : 15
+i am : 14
+with her : 8
+as you : 8
+it is : 8
+i do : 7
+
+
+10 most frequent bigrams per stream
+-----------
+i have : 31
+i am : 19
+o the : 15
+of the : 13
+to be : 13
+to the : 12
+for the : 11
+i was : 10
+by the : 10
+and the : 10
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 24
+to be : 22
+to the : 21
+of the : 20
+the king : 20
+i have : 18
+in the : 14
+of your : 12
+you have : 12
+my lord : 11
+
+
+10 most frequent bigrams per stream
+-----------
+in the : 18
+he is : 13
+is not : 13
+a man : 11
+do you : 10
+of the : 10
+i would : 8
+as the : 8
+by the : 7
+and the : 7
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 29
+is a : 16
+to the : 14
+go to : 13
+i will : 13
+in the : 13
+sweet queen : 13
+he is : 12
+a fool : 12
+i am : 9
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 19
+in the : 14
+to the : 12
+like a : 11
+i will : 11
+of the : 10
+how now : 9
+such a : 8
+good morrow : 8
+is the : 8
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 17
+i have : 15
+i would : 14
+my lord : 14
+do not : 10
+will not : 9
+i am : 8
+of the : 7
+no more : 7
+to the : 7
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 29
+i have : 16
+will not : 14
+what is : 13
+of the : 13
+i will : 13
+you are : 12
+of my : 12
+to be : 11
+it is : 11
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 22
+i am : 19
+of the : 19
+in the : 16
+my lady : 14
+he is : 13
+let me : 13
+i would : 12
+i have : 11
+i do : 11
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 32
+i will : 17
+sir topas : 16
+and the : 15
+of my : 14
+i do : 13
+that i : 13
+i have : 11
+out of : 11
+if you : 11
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 25
+to the : 22
+i am : 17
+the duke : 14
+the king : 13
+your grace : 11
+of this : 10
+o the : 9
+of the : 8
+such a : 8
+
+
+10 most frequent bigrams per stream
+-----------
+the king : 21
+i have : 16
+i am : 15
+my lord : 15
+i do : 12
+to the : 12
+of your : 11
+you are : 11
+to be : 11
+of my : 10
+
+
+10 most frequent bigrams per stream
+-----------
+the king : 36
+to the : 19
+of the : 17
+i am : 14
+the kings : 14
+i have : 13
+you have : 13
+all the : 13
+in his : 11
+to be : 11
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 25
+to the : 18
+i have : 15
+you are : 14
+i am : 11
+the king : 11
+my good : 10
+no more : 10
+sir thomas : 9
+from the : 9
+
+
+10 most frequent bigrams per stream
+-----------
+of the : 33
+i will : 24
+my lord : 20
+i am : 18
+i have : 16
+in the : 16
+by the : 15
+to be : 15
+to the : 11
+what a : 10
+
+
+10 most frequent bigrams per stream
+-----------
+in the : 27
+i am : 26
+my lord : 24
+i have : 19
+thou art : 17
+of all : 14
+sir john : 13
+like a : 13
+i will : 13
+to the : 13
+
+
+10 most frequent bigrams per stream
+-----------
+the king : 32
+in the : 22
+my lord : 21
+i am : 19
+i have : 14
+of a : 11
+of the : 11
+thou art : 11
+to the : 11
+of wales : 10
+
+
+10 most frequent bigrams per stream
+-----------
+of the : 21
+in the : 17
+i will : 14
+the french : 10
+i am : 9
+if thou : 9
+out of : 9
+to the : 9
+the english : 9
+i have : 8
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 18
+in the : 15
+duke of : 14
+to the : 13
+i have : 11
+of my : 10
+i will : 10
+i am : 9
+of the : 9
+to be : 9
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 24
+of the : 17
+of france : 15
+to the : 12
+with a : 10
+if i : 9
+of my : 9
+and the : 9
+i have : 8
+i am : 8
+
+
+10 most frequent bigrams per stream
+-----------
+to be : 18
+i am : 16
+of my : 11
+sir robert : 10
+i have : 9
+my father : 9
+of his : 9
+shall be : 9
+and so : 9
+i was : 8
+
+
+10 most frequent bigrams per stream
+-----------
+to the : 17
+in the : 13
+this day : 12
+by the : 11
+of a : 10
+of france : 10
+of our : 10
+of this : 10
+of the : 9
+shall be : 9
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 21
+in the : 15
+i have : 12
+of a : 12
+will not : 12
+with me : 11
+to be : 11
+i am : 9
+of the : 9
+and i : 9
+
+
+10 most frequent bigrams per stream
+-----------
+of the : 22
+to the : 18
+i am : 14
+the king : 14
+of this : 11
+by the : 10
+it is : 10
+the dauphin : 9
+my soul : 9
+in the : 9
+
+
+10 most frequent bigrams per stream
+-----------
+of france : 20
+in the : 15
+i will : 13
+of the : 12
+of it : 12
+to the : 12
+that you : 10
+the dauphin : 9
+the king : 9
+is the : 9
+
+
+10 most frequent bigrams per stream
+-----------
+of the : 37
+to the : 26
+it is : 23
+i will : 21
+in the : 21
+the king : 19
+and the : 19
+look you : 15
+is not : 15
+there is : 15
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 30
+your majesty : 20
+in the : 19
+of the : 17
+there is : 17
+it is : 16
+i have : 15
+and his : 14
+the king : 13
+in his : 13
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 49
+i am : 29
+in the : 26
+sir john : 19
+of the : 18
+to the : 17
+the king : 16
+it is : 16
+and the : 16
+i have : 15
+
+
+10 most frequent bigrams per stream
+-----------
+of the : 29
+sir john : 28
+i will : 19
+in the : 17
+it is : 16
+to the : 15
+i am : 14
+give me : 14
+a good : 14
+i have : 12
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 27
+i am : 18
+to the : 18
+of the : 16
+in the : 14
+the king : 13
+i have : 11
+of his : 11
+he is : 10
+the prince : 10
+
+
+10 most frequent bigrams per stream
+-----------
+of the : 22
+my lord : 22
+to the : 21
+i will : 19
+the king : 15
+in the : 15
+duke of : 13
+sir john : 13
+with the : 12
+i am : 11
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 35
+duke of : 18
+i am : 17
+the duke : 15
+of the : 13
+your grace : 11
+the king : 11
+to the : 10
+to be : 10
+i have : 9
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 20
+the king : 11
+lord of : 11
+i will : 10
+in the : 10
+i am : 9
+the duke : 9
+to the : 9
+with the : 8
+thou art : 8
+
+
+10 most frequent bigrams per stream
+-----------
+the king : 24
+i am : 18
+to the : 16
+shall be : 16
+i have : 15
+that i : 13
+my lord : 13
+of the : 12
+thou hast : 12
+have i : 11
+
+
+10 most frequent bigrams per stream
+-----------
+of the : 17
+the crown : 16
+of york : 14
+in the : 13
+shall be : 12
+and i : 12
+duke of : 11
+my lord : 10
+the house : 9
+he that : 9
+
+
+10 most frequent bigrams per stream
+-----------
+of york : 13
+duke of : 12
+the king : 12
+in this : 10
+with a : 10
+in the : 10
+a king : 9
+to the : 9
+to be : 9
+like a : 8
+
+
+10 most frequent bigrams per stream
+-----------
+to the : 12
+shall be : 12
+my lord : 11
+i am : 10
+i will : 9
+tell me : 8
+lady bona : 8
+to be : 8
+of york : 7
+and his : 7
+
+
+10 most frequent bigrams per stream
+-----------
+to the : 14
+i will : 13
+i am : 10
+in the : 10
+with the : 9
+of this : 9
+and thou : 8
+that i : 8
+will not : 7
+the rest : 7
+
+
+10 most frequent bigrams per stream
+-----------
+in the : 14
+duke of : 13
+of his : 13
+to the : 11
+the king : 10
+of norfolk : 10
+to my : 10
+to be : 10
+the duke : 9
+of the : 9
+
+
+10 most frequent bigrams per stream
+-----------
+the king : 21
+my lord : 21
+of the : 15
+to the : 15
+duke of : 11
+the duke : 11
+is not : 11
+i am : 10
+it is : 10
+i have : 9
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 19
+i have : 13
+the king : 13
+to the : 13
+in this : 11
+in the : 11
+i will : 10
+i am : 9
+a king : 9
+i do : 7
+
+
+10 most frequent bigrams per stream
+-----------
+the king : 15
+to the : 13
+my lord : 12
+that i : 11
+of a : 9
+i will : 9
+i am : 8
+to be : 8
+i know : 8
+i have : 7
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 19
+i have : 16
+of you : 16
+in the : 15
+that i : 14
+i will : 14
+i am : 13
+the duke : 12
+of the : 10
+to be : 10
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 37
+and so : 14
+the tower : 11
+your grace : 10
+to the : 10
+i am : 9
+the king : 9
+and i : 9
+he is : 8
+the prince : 8
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 31
+in the : 16
+to the : 14
+i am : 13
+of the : 12
+your grace : 12
+i will : 10
+to my : 8
+his grace : 8
+i have : 7
+
+
+10 most frequent bigrams per stream
+-----------
+in the : 14
+my lord : 13
+i have : 12
+of my : 10
+is the : 10
+of the : 9
+i will : 9
+to the : 9
+to her : 8
+by the : 8
+
+
+10 most frequent bigrams per stream
+-----------
+in the : 19
+my lord : 16
+i am : 13
+to the : 13
+c sar : 10
+of the : 10
+and die : 10
+shall be : 10
+it is : 10
+i have : 9
+
+
+10 most frequent bigrams per stream
+-----------
+c sar : 29
+i have : 10
+i will : 10
+i the : 8
+to the : 8
+mark antony : 8
+i would : 8
+if thou : 7
+i do : 6
+he is : 6
+
+
+10 most frequent bigrams per stream
+-----------
+c sar : 25
+i have : 23
+my lord : 12
+of the : 10
+it is : 10
+you have : 9
+the world : 8
+in the : 8
+by land : 8
+by sea : 7
+
+
+10 most frequent bigrams per stream
+-----------
+c sar : 31
+i will : 14
+i have : 12
+i am : 11
+my lord : 10
+to him : 8
+like a : 8
+in the : 8
+he is : 7
+of the : 7
+
+
+10 most frequent bigrams per stream
+-----------
+c sar : 31
+to the : 17
+i have : 16
+i am : 16
+my lord : 13
+the world : 9
+i shall : 8
+o the : 8
+me to : 8
+the gods : 8
+
+
+10 most frequent bigrams per stream
+-----------
+to the : 12
+in the : 12
+o the : 10
+the gods : 10
+it is : 10
+by the : 9
+we have : 9
+of the : 9
+i will : 9
+all the : 9
+
+
+10 most frequent bigrams per stream
+-----------
+to the : 22
+the people : 22
+of the : 20
+your voices : 16
+you have : 16
+i have : 14
+you are : 14
+i the : 13
+of your : 11
+the gods : 11
+
+
+10 most frequent bigrams per stream
+-----------
+to the : 24
+the people : 22
+o the : 13
+i the : 12
+you are : 11
+you have : 11
+let them : 10
+what is : 9
+i would : 9
+of the : 8
+
+
+10 most frequent bigrams per stream
+-----------
+you have : 17
+of the : 12
+to the : 12
+i have : 11
+i the : 11
+to be : 11
+o the : 10
+in the : 10
+i would : 9
+i am : 8
+
+
+10 most frequent bigrams per stream
+-----------
+i have : 18
+in the : 15
+to the : 13
+i am : 12
+you have : 12
+we have : 11
+with his : 10
+of the : 9
+to his : 9
+of your : 8
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 52
+in the : 16
+it is : 14
+of the : 12
+do not : 11
+to you : 9
+i am : 8
+of his : 8
+to the : 8
+i do : 7
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 56
+in the : 28
+i have : 24
+to the : 21
+of the : 16
+i am : 14
+that i : 14
+and the : 14
+i will : 12
+to be : 11
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 41
+the king : 13
+of the : 12
+in the : 12
+you are : 11
+i will : 11
+to the : 11
+do you : 10
+of a : 9
+i do : 8
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 21
+of his : 13
+that i : 10
+to the : 10
+i have : 9
+is the : 9
+to be : 9
+it is : 9
+pray you : 8
+i the : 8
+
+
+10 most frequent bigrams per stream
+-----------
+c sar : 31
+i am : 21
+my lord : 17
+it is : 17
+in the : 15
+to the : 14
+i have : 13
+i do : 13
+i will : 12
+of the : 11
+
+
+10 most frequent bigrams per stream
+-----------
+c sar : 73
+i will : 24
+to the : 17
+in the : 17
+it is : 16
+i have : 15
+i am : 13
+the capitol : 12
+of the : 11
+and i : 11
+
+
+10 most frequent bigrams per stream
+-----------
+c sar : 65
+c sars : 24
+the will : 16
+i am : 14
+in the : 14
+mark antony : 13
+i do : 12
+of c : 12
+you are : 10
+that i : 10
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 35
+c sar : 13
+i am : 12
+i will : 11
+i have : 10
+i do : 9
+i did : 8
+it is : 8
+i shall : 7
+my heart : 7
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 24
+my lord : 24
+i have : 22
+in the : 13
+to be : 12
+to the : 11
+i would : 11
+i shall : 10
+that i : 10
+and the : 10
+
+
+10 most frequent bigrams per stream
+-----------
+i have : 15
+the king : 14
+i will : 14
+my lord : 14
+i know : 12
+i am : 10
+of the : 10
+the duke : 9
+by the : 9
+i the : 9
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 23
+i have : 15
+in the : 15
+the king : 13
+i will : 13
+i the : 11
+foul fiend : 11
+to the : 11
+the foul : 11
+i am : 10
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 20
+i know : 13
+in the : 11
+of the : 10
+and the : 9
+i will : 9
+i have : 8
+i do : 8
+give me : 7
+am i : 7
+
+
+10 most frequent bigrams per stream
+-----------
+thane of : 16
+i have : 15
+of cawdor : 14
+i am : 12
+of the : 8
+and the : 8
+to the : 8
+in the : 8
+it is : 8
+the thane : 7
+
+
+10 most frequent bigrams per stream
+-----------
+to the : 20
+of the : 11
+i the : 10
+my lord : 10
+to be : 9
+you to : 8
+that i : 8
+in the : 8
+it is : 8
+i have : 7
+
+
+10 most frequent bigrams per stream
+-----------
+i have : 16
+i am : 16
+in the : 9
+of the : 8
+i will : 8
+to the : 8
+you may : 7
+and the : 7
+to bed : 7
+for the : 6
+
+
+10 most frequent bigrams per stream
+-----------
+i have : 16
+of the : 15
+it is : 13
+to the : 12
+i do : 11
+of my : 10
+i am : 9
+in the : 9
+the moor : 8
+what is : 7
+
+
+10 most frequent bigrams per stream
+-----------
+to the : 31
+i am : 23
+the moor : 23
+i have : 21
+it is : 17
+to be : 16
+i do : 13
+in the : 13
+of this : 12
+on the : 11
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 28
+i am : 23
+i will : 16
+i have : 15
+i do : 13
+to the : 9
+i know : 9
+i think : 8
+is not : 8
+with you : 7
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 31
+i will : 20
+i have : 17
+i am : 14
+do you : 12
+i do : 11
+go to : 10
+is it : 10
+i would : 9
+it is : 9
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 18
+i am : 17
+my lord : 16
+i have : 13
+it is : 13
+to the : 12
+i do : 11
+is the : 11
+she was : 11
+as i : 10
+
+
+10 most frequent bigrams per stream
+-----------
+of the : 13
+in the : 13
+i am : 12
+it is : 12
+i have : 11
+is the : 11
+with his : 9
+to be : 9
+that i : 8
+to the : 8
+
+
+10 most frequent bigrams per stream
+-----------
+i am : 22
+i have : 15
+thou art : 12
+for the : 11
+i will : 11
+is the : 10
+with a : 10
+a man : 9
+art thou : 9
+of my : 9
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 12
+in the : 12
+shall be : 11
+it is : 11
+i am : 10
+my lord : 10
+to my : 9
+i have : 8
+let me : 8
+thou hast : 8
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 25
+in this : 11
+to the : 11
+i have : 9
+give me : 9
+i am : 8
+in the : 8
+i do : 7
+for the : 7
+this same : 7
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 36
+i am : 14
+i have : 13
+that i : 11
+to you : 10
+thou art : 10
+your lordship : 9
+good lord : 9
+if i : 8
+my good : 8
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 28
+i have : 14
+i am : 13
+the gods : 13
+to the : 13
+in the : 10
+my lords : 9
+to be : 9
+i know : 8
+do you : 7
+
+
+10 most frequent bigrams per stream
+-----------
+if thou : 13
+in the : 13
+to the : 12
+i have : 11
+i am : 11
+of the : 10
+thou art : 10
+i will : 9
+by the : 8
+thou wert : 8
+
+
+10 most frequent bigrams per stream
+-----------
+my lord : 17
+i have : 14
+of rome : 11
+in the : 11
+i am : 9
+all the : 9
+let us : 8
+that i : 8
+to be : 8
+queen of : 7
+
+
+10 most frequent bigrams per stream
+-----------
+i will : 13
+to the : 13
+my lord : 11
+i have : 10
+that i : 10
+in the : 10
+let me : 8
+dost thou : 8
+with me : 8
+i know : 8
+
+
+10 most frequent bigrams per stream
+-----------
+the empress : 19
+i am : 17
+i will : 17
+i have : 16
+the emperor : 16
+to the : 15
+in the : 14
+with him : 11
+of the : 10
+and i : 9
+
+

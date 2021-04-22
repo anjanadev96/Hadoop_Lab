@@ -1,0 +1,1806 @@
+10 most frequent words per stream
+-----------
+the : 255
+and : 234
+i : 187
+to : 147
+a : 126
+you : 122
+of : 114
+in : 102
+my : 85
+that : 79
+
+
+10 most frequent words per stream
+-----------
+i : 216
+and : 195
+the : 160
+to : 129
+you : 118
+of : 97
+me : 93
+in : 84
+my : 82
+a : 73
+
+
+10 most frequent words per stream
+-----------
+the : 249
+and : 203
+i : 173
+to : 134
+a : 132
+in : 124
+of : 118
+is : 108
+that : 102
+you : 102
+
+
+10 most frequent words per stream
+-----------
+i : 219
+and : 184
+to : 178
+the : 174
+my : 142
+you : 133
+a : 120
+of : 115
+is : 92
+that : 90
+
+
+10 most frequent words per stream
+-----------
+the : 271
+i : 237
+to : 181
+of : 172
+and : 166
+you : 158
+a : 148
+he : 130
+that : 117
+in : 113
+
+
+10 most frequent words per stream
+-----------
+i : 288
+the : 241
+and : 204
+you : 203
+to : 172
+of : 154
+a : 134
+that : 130
+my : 127
+me : 105
+
+
+10 most frequent words per stream
+-----------
+and : 222
+i : 207
+the : 193
+to : 124
+of : 122
+a : 121
+you : 118
+that : 114
+my : 104
+in : 103
+
+
+10 most frequent words per stream
+-----------
+the : 256
+i : 255
+and : 236
+a : 206
+you : 203
+of : 184
+to : 152
+that : 130
+in : 118
+is : 109
+
+
+10 most frequent words per stream
+-----------
+i : 276
+the : 252
+you : 213
+and : 198
+to : 192
+a : 162
+of : 139
+that : 104
+my : 96
+in : 96
+
+
+10 most frequent words per stream
+-----------
+the : 190
+i : 187
+to : 153
+and : 145
+of : 116
+you : 112
+a : 88
+your : 87
+that : 81
+it : 78
+
+
+10 most frequent words per stream
+-----------
+the : 224
+i : 176
+to : 170
+and : 163
+of : 131
+my : 113
+that : 111
+a : 109
+d : 98
+in : 97
+
+
+10 most frequent words per stream
+-----------
+the : 222
+i : 161
+and : 136
+to : 135
+d : 99
+a : 87
+of : 83
+not : 70
+my : 69
+that : 68
+
+
+10 most frequent words per stream
+-----------
+the : 194
+and : 166
+to : 154
+i : 147
+of : 126
+d : 110
+that : 94
+a : 94
+you : 87
+my : 85
+
+
+10 most frequent words per stream
+-----------
+the : 213
+i : 177
+a : 142
+and : 141
+to : 137
+of : 130
+is : 105
+you : 105
+in : 94
+that : 85
+
+
+10 most frequent words per stream
+-----------
+the : 327
+a : 194
+and : 170
+i : 168
+of : 151
+to : 149
+is : 104
+that : 101
+in : 99
+for : 93
+
+
+10 most frequent words per stream
+-----------
+the : 162
+and : 145
+i : 113
+you : 110
+a : 100
+to : 97
+in : 85
+of : 79
+d : 78
+not : 66
+
+
+10 most frequent words per stream
+-----------
+the : 240
+and : 179
+of : 158
+i : 154
+to : 143
+you : 121
+a : 113
+in : 106
+that : 86
+not : 80
+
+
+10 most frequent words per stream
+-----------
+to : 172
+the : 163
+i : 154
+you : 151
+and : 119
+a : 116
+that : 101
+of : 84
+it : 84
+your : 82
+
+
+10 most frequent words per stream
+-----------
+the : 287
+to : 248
+and : 211
+you : 200
+i : 199
+of : 154
+a : 151
+is : 127
+it : 115
+he : 111
+
+
+10 most frequent words per stream
+-----------
+i : 237
+the : 190
+and : 189
+you : 189
+a : 169
+to : 149
+my : 142
+is : 118
+that : 114
+of : 110
+
+
+10 most frequent words per stream
+-----------
+i : 308
+the : 284
+and : 241
+you : 210
+a : 203
+to : 197
+of : 162
+in : 123
+that : 121
+is : 119
+
+
+10 most frequent words per stream
+-----------
+i : 230
+and : 201
+you : 158
+to : 151
+the : 142
+a : 141
+of : 114
+that : 107
+my : 100
+in : 99
+
+
+10 most frequent words per stream
+-----------
+and : 211
+to : 209
+the : 191
+i : 167
+of : 115
+a : 104
+you : 101
+for : 82
+d : 81
+that : 79
+
+
+10 most frequent words per stream
+-----------
+the : 208
+to : 142
+and : 140
+you : 100
+a : 99
+i : 96
+of : 88
+your : 81
+my : 76
+that : 74
+
+
+10 most frequent words per stream
+-----------
+the : 181
+i : 167
+you : 163
+to : 156
+and : 144
+a : 116
+of : 107
+my : 81
+me : 78
+her : 78
+
+
+10 most frequent words per stream
+-----------
+i : 185
+the : 182
+and : 174
+to : 151
+my : 126
+you : 119
+of : 95
+d : 93
+me : 84
+that : 84
+
+
+10 most frequent words per stream
+-----------
+i : 223
+the : 188
+you : 169
+and : 166
+to : 156
+a : 129
+me : 123
+in : 107
+that : 106
+my : 88
+
+
+10 most frequent words per stream
+-----------
+i : 244
+and : 228
+the : 212
+to : 152
+you : 145
+of : 141
+my : 135
+a : 133
+me : 119
+in : 103
+
+
+10 most frequent words per stream
+-----------
+the : 269
+i : 242
+and : 190
+to : 165
+a : 146
+my : 145
+of : 135
+you : 121
+me : 109
+in : 99
+
+
+10 most frequent words per stream
+-----------
+the : 284
+i : 203
+and : 185
+of : 166
+to : 146
+you : 138
+a : 119
+my : 110
+in : 91
+that : 88
+
+
+10 most frequent words per stream
+-----------
+i : 269
+the : 230
+and : 185
+you : 178
+a : 128
+of : 118
+is : 117
+to : 113
+it : 110
+my : 93
+
+
+10 most frequent words per stream
+-----------
+i : 410
+you : 277
+and : 231
+the : 224
+a : 206
+to : 191
+of : 167
+is : 139
+my : 135
+me : 124
+
+
+10 most frequent words per stream
+-----------
+i : 280
+the : 254
+and : 218
+a : 186
+you : 171
+to : 163
+of : 160
+my : 116
+in : 114
+is : 98
+
+
+10 most frequent words per stream
+-----------
+and : 240
+i : 236
+to : 171
+a : 147
+you : 144
+the : 142
+in : 95
+my : 94
+for : 77
+her : 77
+
+
+10 most frequent words per stream
+-----------
+i : 198
+and : 191
+you : 166
+to : 142
+the : 138
+a : 127
+my : 83
+of : 81
+in : 81
+that : 78
+
+
+10 most frequent words per stream
+-----------
+and : 226
+i : 210
+the : 170
+you : 157
+to : 150
+a : 113
+my : 100
+is : 86
+it : 85
+me : 74
+
+
+10 most frequent words per stream
+-----------
+the : 183
+and : 159
+i : 144
+to : 136
+my : 99
+a : 93
+you : 87
+of : 82
+d : 76
+is : 71
+
+
+10 most frequent words per stream
+-----------
+i : 172
+the : 161
+and : 148
+a : 124
+of : 106
+to : 97
+that : 82
+my : 80
+you : 72
+thou : 66
+
+
+10 most frequent words per stream
+-----------
+i : 209
+and : 193
+the : 170
+my : 120
+to : 111
+a : 90
+of : 85
+you : 84
+d : 82
+this : 70
+
+
+10 most frequent words per stream
+-----------
+i : 182
+and : 140
+to : 136
+you : 136
+the : 126
+a : 105
+of : 94
+my : 85
+that : 85
+for : 69
+
+
+10 most frequent words per stream
+-----------
+i : 215
+to : 164
+and : 140
+the : 127
+my : 126
+a : 117
+you : 102
+that : 92
+me : 90
+is : 87
+
+
+10 most frequent words per stream
+-----------
+i : 210
+and : 139
+to : 135
+the : 129
+that : 124
+you : 105
+she : 103
+a : 96
+my : 84
+her : 84
+
+
+10 most frequent words per stream
+-----------
+i : 167
+to : 157
+and : 147
+the : 143
+my : 126
+you : 112
+a : 105
+that : 95
+d : 95
+of : 83
+
+
+10 most frequent words per stream
+-----------
+the : 209
+i : 171
+to : 156
+and : 140
+of : 110
+you : 106
+my : 90
+d : 82
+a : 81
+it : 78
+
+
+10 most frequent words per stream
+-----------
+the : 259
+i : 246
+and : 216
+to : 178
+of : 156
+a : 144
+you : 133
+my : 117
+that : 94
+not : 81
+
+
+10 most frequent words per stream
+-----------
+the : 302
+i : 209
+to : 190
+and : 184
+of : 158
+you : 152
+a : 114
+that : 108
+not : 98
+your : 97
+
+
+10 most frequent words per stream
+-----------
+the : 214
+and : 210
+of : 137
+a : 128
+i : 123
+to : 118
+in : 102
+that : 100
+is : 97
+he : 91
+
+
+10 most frequent words per stream
+-----------
+the : 199
+to : 172
+and : 164
+i : 143
+you : 140
+of : 130
+a : 125
+my : 95
+in : 94
+is : 92
+
+
+10 most frequent words per stream
+-----------
+the : 191
+and : 155
+to : 154
+i : 131
+you : 112
+of : 106
+a : 101
+in : 96
+my : 84
+is : 70
+
+
+10 most frequent words per stream
+-----------
+i : 158
+and : 148
+the : 143
+to : 114
+you : 93
+of : 90
+a : 88
+my : 74
+not : 72
+that : 69
+
+
+10 most frequent words per stream
+-----------
+i : 230
+the : 192
+and : 168
+you : 158
+a : 158
+of : 148
+to : 133
+my : 120
+in : 112
+is : 103
+
+
+10 most frequent words per stream
+-----------
+i : 236
+the : 220
+and : 178
+of : 163
+a : 155
+to : 154
+you : 132
+my : 126
+is : 98
+that : 90
+
+
+10 most frequent words per stream
+-----------
+i : 242
+and : 190
+the : 186
+you : 179
+to : 140
+of : 129
+a : 119
+my : 115
+that : 112
+me : 103
+
+
+10 most frequent words per stream
+-----------
+the : 221
+and : 137
+to : 136
+of : 111
+i : 107
+a : 105
+d : 100
+you : 86
+he : 78
+that : 75
+
+
+10 most frequent words per stream
+-----------
+the : 185
+and : 179
+i : 176
+to : 147
+of : 133
+you : 122
+my : 121
+a : 105
+your : 96
+that : 87
+
+
+10 most frequent words per stream
+-----------
+the : 264
+and : 156
+to : 147
+i : 147
+of : 140
+you : 103
+a : 98
+my : 96
+his : 92
+that : 90
+
+
+10 most frequent words per stream
+-----------
+the : 195
+and : 190
+i : 179
+to : 156
+of : 123
+you : 123
+a : 112
+my : 95
+that : 78
+me : 76
+
+
+10 most frequent words per stream
+-----------
+the : 281
+and : 280
+i : 243
+of : 191
+to : 169
+a : 161
+in : 109
+you : 106
+my : 102
+for : 93
+
+
+10 most frequent words per stream
+-----------
+and : 282
+i : 267
+the : 256
+a : 220
+of : 209
+in : 148
+to : 136
+you : 132
+my : 122
+thou : 109
+
+
+10 most frequent words per stream
+-----------
+the : 257
+and : 232
+of : 199
+i : 190
+to : 155
+a : 142
+my : 103
+in : 103
+not : 83
+that : 80
+
+
+10 most frequent words per stream
+-----------
+the : 239
+i : 178
+and : 163
+to : 151
+of : 142
+d : 106
+in : 82
+a : 71
+my : 70
+with : 66
+
+
+10 most frequent words per stream
+-----------
+and : 193
+the : 186
+i : 133
+of : 131
+to : 123
+my : 104
+that : 86
+a : 86
+in : 81
+d : 76
+
+
+10 most frequent words per stream
+-----------
+and : 233
+the : 197
+of : 187
+to : 129
+my : 116
+i : 111
+in : 87
+d : 85
+that : 82
+a : 76
+
+
+10 most frequent words per stream
+-----------
+and : 189
+of : 158
+to : 156
+the : 156
+i : 151
+my : 113
+a : 108
+that : 80
+be : 73
+is : 71
+
+
+10 most frequent words per stream
+-----------
+and : 211
+the : 203
+of : 191
+to : 174
+that : 123
+this : 110
+a : 107
+in : 105
+d : 104
+i : 82
+
+
+10 most frequent words per stream
+-----------
+and : 184
+i : 177
+the : 175
+of : 144
+to : 132
+a : 105
+my : 97
+you : 88
+that : 86
+with : 79
+
+
+10 most frequent words per stream
+-----------
+the : 282
+and : 231
+of : 176
+to : 161
+a : 103
+i : 101
+this : 97
+d : 86
+that : 75
+in : 72
+
+
+10 most frequent words per stream
+-----------
+the : 288
+and : 269
+of : 219
+to : 158
+in : 133
+that : 113
+you : 100
+a : 95
+i : 89
+with : 88
+
+
+10 most frequent words per stream
+-----------
+the : 392
+and : 304
+of : 222
+to : 174
+a : 170
+i : 161
+is : 141
+you : 110
+in : 107
+my : 93
+
+
+10 most frequent words per stream
+-----------
+and : 302
+the : 269
+i : 207
+of : 187
+to : 164
+in : 140
+you : 140
+is : 131
+a : 125
+my : 101
+
+
+10 most frequent words per stream
+-----------
+the : 365
+and : 282
+i : 217
+of : 213
+to : 206
+a : 193
+my : 142
+in : 142
+you : 140
+that : 118
+
+
+10 most frequent words per stream
+-----------
+the : 295
+and : 263
+i : 205
+a : 203
+you : 187
+of : 171
+to : 164
+in : 98
+s : 96
+my : 85
+
+
+10 most frequent words per stream
+-----------
+the : 258
+and : 247
+of : 182
+to : 154
+i : 152
+my : 142
+you : 112
+a : 106
+that : 93
+with : 85
+
+
+10 most frequent words per stream
+-----------
+the : 277
+and : 254
+i : 181
+of : 177
+to : 154
+my : 125
+you : 101
+in : 99
+a : 90
+be : 78
+
+
+10 most frequent words per stream
+-----------
+the : 228
+and : 195
+i : 149
+of : 139
+my : 133
+to : 131
+in : 73
+a : 72
+d : 71
+that : 66
+
+
+10 most frequent words per stream
+-----------
+the : 210
+and : 209
+i : 139
+to : 133
+my : 112
+of : 103
+d : 102
+that : 89
+a : 87
+in : 83
+
+
+10 most frequent words per stream
+-----------
+and : 266
+the : 239
+to : 201
+i : 190
+a : 153
+of : 131
+that : 91
+my : 89
+in : 86
+for : 85
+
+
+10 most frequent words per stream
+-----------
+and : 225
+the : 202
+i : 151
+to : 137
+of : 129
+my : 99
+d : 84
+thou : 71
+that : 71
+in : 71
+
+
+10 most frequent words per stream
+-----------
+and : 218
+the : 216
+to : 150
+i : 126
+of : 118
+my : 94
+d : 91
+that : 90
+for : 90
+a : 88
+
+
+10 most frequent words per stream
+-----------
+and : 221
+to : 178
+the : 158
+i : 156
+my : 121
+that : 92
+of : 83
+s : 82
+you : 73
+but : 68
+
+
+10 most frequent words per stream
+-----------
+and : 226
+the : 209
+to : 140
+i : 129
+my : 110
+d : 99
+of : 89
+that : 87
+for : 84
+in : 77
+
+
+10 most frequent words per stream
+-----------
+and : 207
+the : 200
+to : 182
+of : 151
+my : 146
+i : 124
+in : 107
+a : 97
+s : 92
+that : 83
+
+
+10 most frequent words per stream
+-----------
+and : 228
+the : 227
+to : 172
+of : 150
+my : 138
+i : 125
+d : 108
+is : 92
+with : 83
+his : 79
+
+
+10 most frequent words per stream
+-----------
+the : 202
+and : 186
+to : 155
+of : 155
+i : 153
+my : 124
+that : 96
+d : 87
+a : 81
+in : 74
+
+
+10 most frequent words per stream
+-----------
+the : 180
+i : 169
+and : 162
+to : 139
+that : 119
+of : 107
+my : 103
+thy : 78
+d : 72
+thou : 70
+
+
+10 most frequent words per stream
+-----------
+and : 188
+i : 174
+to : 159
+the : 154
+you : 133
+of : 132
+my : 125
+that : 112
+a : 89
+d : 87
+
+
+10 most frequent words per stream
+-----------
+the : 189
+and : 163
+i : 157
+to : 148
+my : 135
+you : 105
+of : 98
+d : 73
+a : 68
+lord : 66
+
+
+10 most frequent words per stream
+-----------
+the : 215
+and : 174
+to : 165
+i : 162
+of : 132
+my : 123
+in : 90
+your : 85
+d : 82
+you : 70
+
+
+10 most frequent words per stream
+-----------
+the : 187
+and : 168
+to : 156
+of : 148
+my : 128
+i : 128
+d : 103
+that : 90
+in : 81
+a : 79
+
+
+10 most frequent words per stream
+-----------
+the : 231
+and : 175
+to : 141
+of : 119
+i : 117
+in : 93
+a : 84
+d : 75
+you : 74
+s : 66
+
+
+10 most frequent words per stream
+-----------
+the : 151
+i : 136
+to : 130
+and : 101
+you : 92
+of : 80
+not : 65
+my : 63
+d : 63
+that : 61
+
+
+10 most frequent words per stream
+-----------
+the : 191
+and : 126
+i : 108
+of : 90
+to : 84
+you : 78
+have : 66
+is : 64
+he : 64
+d : 64
+
+
+10 most frequent words per stream
+-----------
+the : 150
+to : 135
+and : 125
+i : 119
+of : 89
+my : 74
+a : 71
+you : 70
+that : 66
+d : 64
+
+
+10 most frequent words per stream
+-----------
+the : 164
+i : 144
+and : 138
+to : 107
+my : 94
+d : 89
+of : 87
+me : 79
+that : 68
+is : 68
+
+
+10 most frequent words per stream
+-----------
+the : 249
+you : 141
+and : 133
+i : 133
+to : 122
+of : 95
+that : 81
+a : 81
+in : 78
+is : 71
+
+
+10 most frequent words per stream
+-----------
+the : 266
+to : 188
+you : 171
+and : 169
+i : 158
+of : 126
+he : 117
+that : 94
+a : 94
+your : 87
+
+
+10 most frequent words per stream
+-----------
+the : 210
+to : 140
+you : 111
+i : 101
+and : 99
+d : 73
+of : 71
+that : 66
+a : 61
+he : 59
+
+
+10 most frequent words per stream
+-----------
+the : 197
+and : 171
+i : 144
+to : 135
+you : 130
+of : 108
+he : 91
+a : 91
+d : 75
+in : 67
+
+
+10 most frequent words per stream
+-----------
+the : 233
+and : 175
+to : 166
+of : 126
+i : 125
+you : 115
+d : 88
+a : 84
+his : 75
+with : 75
+
+
+10 most frequent words per stream
+-----------
+and : 183
+the : 170
+to : 160
+of : 133
+my : 126
+i : 111
+you : 108
+in : 103
+it : 100
+a : 80
+
+
+10 most frequent words per stream
+-----------
+the : 294
+and : 221
+to : 196
+of : 179
+i : 173
+you : 154
+my : 138
+a : 137
+that : 110
+in : 100
+
+
+10 most frequent words per stream
+-----------
+the : 222
+and : 176
+you : 141
+to : 131
+of : 118
+i : 116
+my : 110
+a : 109
+is : 86
+in : 77
+
+
+10 most frequent words per stream
+-----------
+the : 200
+and : 192
+to : 145
+a : 130
+of : 120
+i : 116
+that : 114
+you : 94
+it : 84
+my : 83
+
+
+10 most frequent words per stream
+-----------
+the : 243
+i : 187
+and : 169
+to : 151
+you : 130
+of : 124
+a : 98
+it : 93
+is : 90
+in : 90
+
+
+10 most frequent words per stream
+-----------
+the : 196
+and : 195
+to : 171
+i : 152
+of : 113
+you : 107
+that : 88
+not : 84
+is : 83
+c : 80
+
+
+10 most frequent words per stream
+-----------
+and : 192
+the : 161
+i : 150
+you : 130
+to : 122
+of : 110
+sar : 89
+c : 89
+that : 82
+a : 70
+
+
+10 most frequent words per stream
+-----------
+i : 139
+the : 125
+and : 119
+my : 97
+to : 91
+of : 80
+you : 78
+not : 72
+that : 71
+is : 69
+
+
+10 most frequent words per stream
+-----------
+i : 202
+and : 183
+the : 177
+of : 145
+to : 144
+my : 144
+you : 142
+that : 105
+a : 96
+thou : 70
+
+
+10 most frequent words per stream
+-----------
+the : 198
+i : 177
+and : 139
+to : 129
+you : 127
+my : 103
+of : 94
+d : 89
+a : 88
+not : 81
+
+
+10 most frequent words per stream
+-----------
+the : 244
+and : 160
+to : 136
+i : 127
+a : 100
+of : 94
+my : 93
+that : 80
+in : 78
+d : 71
+
+
+10 most frequent words per stream
+-----------
+the : 201
+i : 166
+and : 143
+to : 106
+you : 103
+of : 90
+my : 84
+that : 70
+a : 70
+in : 69
+
+
+10 most frequent words per stream
+-----------
+the : 218
+and : 174
+to : 125
+of : 114
+i : 109
+d : 102
+that : 87
+in : 67
+my : 64
+you : 63
+
+
+10 most frequent words per stream
+-----------
+the : 245
+and : 156
+to : 134
+i : 119
+of : 98
+s : 87
+d : 86
+you : 77
+a : 73
+in : 71
+
+
+10 most frequent words per stream
+-----------
+the : 204
+and : 170
+i : 134
+to : 119
+of : 111
+you : 80
+a : 79
+that : 78
+my : 67
+d : 62
+
+
+10 most frequent words per stream
+-----------
+the : 204
+and : 183
+i : 163
+of : 137
+to : 128
+my : 94
+d : 87
+a : 81
+you : 78
+that : 69
+
+
+10 most frequent words per stream
+-----------
+the : 277
+and : 243
+to : 217
+i : 216
+of : 149
+a : 133
+that : 108
+in : 101
+you : 101
+my : 95
+
+
+10 most frequent words per stream
+-----------
+i : 200
+to : 145
+and : 133
+the : 113
+you : 105
+my : 104
+that : 98
+not : 92
+a : 87
+of : 82
+
+
+10 most frequent words per stream
+-----------
+i : 194
+and : 150
+you : 128
+the : 121
+to : 106
+my : 93
+it : 88
+that : 78
+a : 77
+not : 75
+
+
+10 most frequent words per stream
+-----------
+i : 192
+the : 133
+and : 109
+you : 101
+a : 80
+my : 79
+that : 78
+to : 76
+o : 74
+of : 71
+
+
+10 most frequent words per stream
+-----------
+the : 185
+and : 172
+i : 151
+a : 128
+to : 123
+of : 123
+that : 94
+is : 93
+in : 90
+my : 88
+
+
+10 most frequent words per stream
+-----------
+the : 195
+i : 184
+and : 171
+a : 156
+to : 142
+that : 107
+thou : 103
+of : 101
+my : 87
+is : 86
+
+
+10 most frequent words per stream
+-----------
+to : 175
+i : 162
+and : 155
+the : 130
+my : 99
+thou : 94
+is : 94
+you : 94
+a : 94
+that : 92
+
+
+10 most frequent words per stream
+-----------
+and : 181
+i : 160
+the : 159
+to : 126
+a : 90
+of : 88
+my : 87
+this : 80
+in : 79
+d : 79
+
+
+10 most frequent words per stream
+-----------
+i : 165
+to : 155
+and : 135
+you : 126
+my : 111
+a : 100
+the : 97
+of : 82
+that : 72
+lord : 71
+
+
+10 most frequent words per stream
+-----------
+and : 173
+the : 165
+i : 140
+to : 128
+of : 101
+my : 100
+his : 93
+that : 78
+you : 78
+he : 76
+
+
+10 most frequent words per stream
+-----------
+and : 206
+the : 205
+to : 134
+of : 132
+i : 122
+thou : 119
+in : 99
+that : 94
+a : 94
+you : 73
+
+
+10 most frequent words per stream
+-----------
+and : 250
+the : 155
+to : 149
+i : 117
+my : 104
+in : 99
+of : 90
+that : 85
+you : 82
+d : 81
+
+
+10 most frequent words per stream
+-----------
+and : 168
+the : 165
+i : 134
+to : 129
+my : 110
+that : 95
+thy : 91
+a : 89
+of : 85
+d : 84
+
+
+10 most frequent words per stream
+-----------
+and : 265
+the : 224
+to : 162
+i : 158
+you : 97
+of : 94
+a : 93
+d : 88
+my : 80
+that : 77
+
+
